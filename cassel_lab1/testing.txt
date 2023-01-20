@@ -1,0 +1,48 @@
+"""
+-------------------------------------------------------
+testing.txt
+CP213 Documentation Lab Testing
+-------------------------------------------------------
+Author:  Cassel Robson
+ID:   210507000   
+Email:  robs7000@mylaurier.ca 
+Version: 2022-09-21
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+Output after keyboard Scanner Input
+5
+7
+q
+Total: 12
+----------------------------------------
+Lines: 73
+----------------------------------------
+Tokens: 211
+----------------------------------------
+Words: 6
+----------------------------------------
+Done
+
+
+ScannerTest.java test on bohr
+
+Testing: ScannerTest
+
+  Test 'countLines' uses 'next...':
+    OK
+  Test 'countLines':
+    OK
+  Test 'countTokens' uses 'next...':
+    OK
+  Test 'countTokens':
+    OK
+  Test 'readNumbers' error messages:
+    OK
+  Test 'readNumbers' uses 'next..':
+    OK
+  Test 'readNumbers':
+    OK
+  Mark: 7 / 7
+
+Total: 7 / 7
